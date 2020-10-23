@@ -3,7 +3,11 @@ How to use the injector
 2.Click browse and find a dll
 3. Click proccess name and enter in a game that you own thats installed
 4.Click Inject
---------------------------------------------------------------------------------------------------------------
+How to use Force Imposter
+1. Open up Among Us 
+2. Open up AMONG US FORCE IMPOSTER.exe (note: make sure it's in a folder with force CrewMate.exe and Force Imposter v2.exe)
+3. Click if you want to be a crewmate or imposter. (note: for imposter click the sabatoge button to get the kill button)
+------------------------------------------------------------------------------------------------------
 Questions! Q: How do I get rid of a dll in the injector?
 A: Click on the dll below watting for (proccess).exe and once clicked on the dll you want removed.
 It should be blue, if so click the Remove button.
